@@ -1,2 +1,2 @@
 # ProvokatorFishing
-Development of applications for anglers of the new generation
+Development of application for anglers of the new generation
