@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:better="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="NewApi"
+    android:viewportWidth="243"
+    better:viewportWidth="243"
+    android:viewportHeight="154"
+    better:viewportHeight="154"
+    android:width="243dp"
+    android:height="154dp">
+    <path
+        android:pathData="M0.5 3.5l242 0 0 150 -242 0z"
+        better:pathData="M0.5 3.5l242 0 0 150 -242 0z"
+        android:strokeWidth="1"
+        better:strokeWidth="1"
+        android:fillColor="#00ff00"
+        better:fillColor="#00ff00"
+        android:strokeColor="#00ff00"
+        better:strokeColor="#00ff00"
+        android:strokeMiterLimit="10"
+        better:strokeMiterLimit="10" />
+    <path
+        android:pathData="M0.5 0.5l242 0 0 150 -242 0z"
+        better:pathData="M0.5 0.5l242 0 0 150 -242 0z"
+        android:strokeWidth="1"
+        better:strokeWidth="1"
+        android:fillColor="#ffffff"
+        better:fillColor="#ffffff"
+        android:strokeColor="#000000"
+        better:strokeColor="#000000"
+        android:strokeMiterLimit="10"
+        better:strokeMiterLimit="10" />
+    <path
+        android:pathData="M23 32.5l197 0"
+        better:pathData="M23 32.5l197 0"
+        android:strokeWidth="1"
+        better:strokeWidth="1"
+        android:strokeColor="#000000"
+        better:strokeColor="#000000"
+        android:strokeMiterLimit="10"
+        better:strokeMiterLimit="10" />
+    <path
+        android:pathData="M173 88.300003A50.5 50.5 0 0 1 122.5 138.8 50.5 50.5 0 0 1 72 88.300003a50.5 50.5 0 0 1 50.5 -50.5 50.5 50.5 0 0 1 50.5 50.5z"
+        better:pathData="M173 88.300003A50.5 50.5 0 0 1 122.5 138.8 50.5 50.5 0 0 1 72 88.300003a50.5 50.5 0 0 1 50.5 -50.5 50.5 50.5 0 0 1 50.5 50.5z"
+        better:fillType="even_odd"
+        android:strokeWidth="0.5227"
+        better:strokeWidth="0.5227"
+        android:fillColor="#00ff00"
+        better:fillColor="#00ff00"
+        android:strokeColor="#00ff00"
+        better:strokeColor="#00ff00"
+        android:strokeMiterLimit="10"
+        better:strokeMiterLimit="10" />
+    <path
+        android:pathData="M135.5 75.900002a13 13 0 0 1 -13 13 13 13 0 0 1 -13 -13 13 13 0 0 1 13 -13 13 13 0 0 1 13 13z"
+        better:pathData="M135.5 75.900002a13 13 0 0 1 -13 13 13 13 0 0 1 -13 -13 13 13 0 0 1 13 -13 13 13 0 0 1 13 13z"
+        android:fillColor="#ffffff"
+        better:fillColor="#ffffff" />
+    <path
+        android:pathData="M121.6 100.2a13 13 0 0 1 -13 13 13 13 0 0 1 -13.000002 -13A13 13 0 0 1 108.6 87.199997 13 13 0 0 1 121.6 100.2Z"
+        better:pathData="M121.6 100.2a13 13 0 0 1 -13 13 13 13 0 0 1 -13.000002 -13A13 13 0 0 1 108.6 87.199997 13 13 0 0 1 121.6 100.2Z"
+        android:fillColor="#ffffff"
+        better:fillColor="#ffffff" />
+    <path
+        android:pathData="M149.7 100.2a13 13 0 0 1 -13 13 13 13 0 0 1 -13 -13 13 13 0 0 1 13 -13.000003 13 13 0 0 1 13 13.000003z"
+        better:pathData="M149.7 100.2a13 13 0 0 1 -13 13 13 13 0 0 1 -13 -13 13 13 0 0 1 13 -13.000003 13 13 0 0 1 13 13.000003z"
+        android:fillColor="#ffffff"
+        better:fillColor="#ffffff" />
+</vector>
